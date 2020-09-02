@@ -1,4 +1,4 @@
-# Preprocessing
+# Dataset-Preprocessing
 in ML, working with images might need pre-processing. In my case this project taking the explicit folder path and find all of the images then doing the below operations.
 
 This project file consist of 3 part.
